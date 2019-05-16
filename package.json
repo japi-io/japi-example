@@ -1,0 +1,32 @@
+{
+  "name": "japi-test",
+  "version": "0.1.0",
+  "description": "A RESTful, JSON:API-complicant API made with japi",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://github.com/japi-io/japi-example.git"
+  },
+  "keywords": [
+    "japi",
+    "rest",
+    "api",
+    "jsonapi",
+    "example",
+    "restful",
+    "hapi",
+    "hapijs"
+  ],
+  "author": "Thomas Domingues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/japi-io/japi-example/issues"
+  },
+  "homepage": "https://github.com/japi-io/japi-example#readme",
+  "dependencies": {
+    "@hapi/hapi": "^18.3.1"
+  }
+}
